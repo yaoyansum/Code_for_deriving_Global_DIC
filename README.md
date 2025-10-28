@@ -1,0 +1,1 @@
+# Code_for_deriving_Global_DIC
